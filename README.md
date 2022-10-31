@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zyadakkari
+- 👋 Hi, I’m Zyad Akkari
 - 👀 I’m interested in becoming a backend engineer
-- 🌱 I’m currently learning python and completing the odin project
-- 💞️ I’m looking to collaborate on projects to help improve life in developing countries
+- 🌱 I’m currently learning ruby on rails and completing the odin project alongside some other courses
+- 💞️ I'm keen to support on projects that are working on building decision support systems for governance
 - 📫 How to reach me discord: LyCrypton
 
